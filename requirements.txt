@@ -1,0 +1,6 @@
+pip install --upgrade boto3
+pip install --upgrade awswrangler
+pip install --upgrade pandas
+pip install --upgrade pyarrow
+pip install --upgrade sagemaker
+pip install --upgrade numpy
