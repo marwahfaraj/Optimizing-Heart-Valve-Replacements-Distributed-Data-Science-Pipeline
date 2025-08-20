@@ -1,7 +1,6 @@
 # Optimizing Heart Valve Replacements: Distributed Data Science Pipeline
 ![Optimizing Heart Valve Replacements](images/project_readmfile_image.png)
 
-### 🧠 Project Authors: [Niat Kahsay](https://github.com/NiatKahsay) & [Marwah Faraj](https://github.com/marwahfaraj)  
 **Company:** CardioValve Solutions  
 **Industry:** Healthcare / Medical Devices  
 **Team Size:** Small (20 employees)
